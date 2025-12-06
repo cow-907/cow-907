@@ -1,7 +1,7 @@
 <!-- Header Section -->
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdqd3g0aW8zbjM0bzlleXAxamtlcWpuNHJ5cnZnMGhjbmRsancxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Welcome" width="850"/>
+  <img src="https://www.behance.net/gallery/203534581/Graphic-Design-Portfolio-2024-Pham-Thanh" alt="Welcome" width="800"/>
 </p>
 
 
