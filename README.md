@@ -50,26 +50,6 @@
 - 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkotarya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
-
-</div>
-
----
-
-### 💌 Let's Build Something Amazing Together!
-
-*"The future belongs to those who believe in the beauty of their dreams."*
-
-**📧 Email:** [sanjeetkotarya@gmail.com](mailto:your.sanjeetkotarya@gmail.com)  
-**🌍 Location:** Available for remote collaboration worldwide
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=sanjeetkotarya&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
