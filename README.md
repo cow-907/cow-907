@@ -1,4 +1,47 @@
 <!-- Header Section -->
+<!-- README.md -->
+<p align="center">
+  <img src="assets/hero.gif" alt="Hero GIF" width="100%" />
+</p>
+
+# Nama Projek Kamu
+**Satu baris penjelasan singkat tentang apa proyek ini.**
+
+[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo/stargazers)
+[![License](https://img.shields.io/github/license/username/repo)](LICENSE)
+
+---
+
+## 🔎 Tentang
+Tuliskan deskripsi singkat: tujuan, alasan dibuat, dan apa manfaatnya bagi pengguna/pengembang.
+
+Contoh:
+> Projek ini adalah contoh portofolio / demo fitur X. Menyediakan utilitas untuk ... dan mudah di-extend.
+
+---
+
+## ✨ Fitur
+- Fitur 1: penjelasan singkat
+- Fitur 2: penjelasan singkat
+- Fitur 3: penjelasan singkat
+
+---
+
+## 🧰 Teknologi
+- Bahasa / Framework utama (mis. JavaScript, React, Python)
+- Library & tools penting
+
+---
+
+## 🚀 Cara Menjalankan (contoh)
+
+
+git clone https://github.com/username/repo.git
+cd repo
+# langkah instalasi, mis:
+npm install
+npm start
+
 <h1 align="center"><font face="Arial">Hi 👋, I'm Nasiullha Chaudhari a.k.a <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
@@ -29,3 +72,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
 
+```bash
