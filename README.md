@@ -6,8 +6,8 @@
 
 
 
-## Tentang  
-“Program yang baik bukanlah yang rumit, tapi yang mudah dipahami oleh manusia.”
+## “Program yang baik bukanlah yang rumit, tapi yang mudah dipahami oleh manusia.” 
+
 
 
 <div align="center">
