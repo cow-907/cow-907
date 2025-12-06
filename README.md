@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <!-- Header README -->
 <p align="center">
-  <img src="[https://pin.it/18eeZ6jd0](https://video-previews.elements.envatousercontent.com/files/8f9b7fa7-0858-4295-9e2f-8e8c49461815/video_preview_h264.mp4](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VhZTF5a2p4amtxZDRpNWVsanpoY2poNnhtbjB1bmRzMXByeDd4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif)" alt="Welcome" width="700"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VhZTF5a2p4amtxZDRpNWVsanpoY2poNnhtbjB1bmRzMXByeDd4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" alt="Welcome" width="700"/>
 </p>
 
 # 🛠️ Nama Proyek Kamu
