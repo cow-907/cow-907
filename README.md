@@ -1,9 +1,8 @@
 <!-- Header Section -->
 
 <p align="center">
-  <img src="path/to/gif/x.gif" alt="Deskripsi GIF">
+  <img src="gif/x.gif" alt="Deskripsi GIF">
 
-  <img src="https://drive.google.com/file/d/14jHMQl3itHpGkTv02OLSH_EWm1Roxjr7/view?usp=sharing" width="800"/>
 </p>
 
 
