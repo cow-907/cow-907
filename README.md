@@ -41,7 +41,7 @@ npm start
 </p>
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="[https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VhZTF5a2p4amtxZDRpNWVsanpoY2poNnhtbjB1bmRzMXByeDd4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif)" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
