@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <!-- Header README -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VhZTF5a2p4amtxZDRpNWVsanpoY2poNnhtbjB1bmRzMXByeDd4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" alt="Welcome" width="700"/>
+  <img src="https://pin.it/4nOZTwhKa" alt="Welcome" width="700"/>
 </p>
 
 # 🛠️ Nama Proyek Kamu
