@@ -35,9 +35,9 @@ Deskripsi singkat tentang apa proyek ini, kenapa dibuat, dan masalah apa yang di
 - 🛠️ Fitur 3  
 
 ## Instalasi  
-```bash
+
 # contoh
-git clone https://github.com/username/repo.git  
+git clone https://github.com/cow-907/projmath3.git
 cd repo  
 npm install   # atau perintah instalasi lainnya  
 
@@ -46,4 +46,5 @@ npm install   # atau perintah instalasi lainnya
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
 
+```bash
 
