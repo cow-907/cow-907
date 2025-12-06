@@ -1,40 +1,29 @@
 <!-- Header Section -->
-<!-- README.md -->
+<!-- Header README -->
 <p align="center">
-  <img src="assets/hero.gif" alt="Hero GIF" width="100%" />
+  <img src="https://pin.it/18eeZ6jd0" alt="Welcome" width="700"/>
 </p>
 
-# Nama Projek Kamu
-**Satu baris penjelasan singkat tentang apa proyek ini.**
+# 🛠️ Nama Proyek Kamu
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo/stargazers)
-[![License](https://img.shields.io/github/license/username/repo)](LICENSE)
+Deskripsi singkat: satu atau dua kalimat yang jelas menggambarkan apa proyek ini.  
 
 ---
 
-## 🔎 Tentang
-Tuliskan deskripsi singkat: tujuan, alasan dibuat, dan apa manfaatnya bagi pengguna/pengembang.
+## ✨ Fitur Utama
+- Fitur 1  
+- Fitur 2  
+- Fitur 3  
 
-Contoh:
-> Projek ini adalah contoh portofolio / demo fitur X. Menyediakan utilitas untuk ... dan mudah di-extend.
+## 🚀 Cara Memulai
 
----
 
-## ✨ Fitur
-- Fitur 1: penjelasan singkat
-- Fitur 2: penjelasan singkat
-- Fitur 3: penjelasan singkat
+# Clone repo
+git clone https://github.com/username/namarepo.git
+cd namarepo
 
----
-
-## 🧰 Teknologi
-- Bahasa / Framework utama (mis. JavaScript, React, Python)
-- Library & tools penting
-
----
-
-## 🚀 Cara Menjalankan (contoh)
-
+# Install dependency / build / run
+...
 
 git clone https://github.com/username/repo.git
 cd repo
